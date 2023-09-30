@@ -1,0 +1,42 @@
+.p1{
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.p1-texts{
+    width: 65%;
+}
+
+.p1-title{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.p1-desc{
+    margin: 20px 0px;
+
+}
+
+.p1-list{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 480px) {
+    .p1{
+        padding: 10px;
+    }
+
+    .p1-texts{
+        width: 100%;
+    }
+
+    .p1-desc{
+        display: none;
+    }
+}
