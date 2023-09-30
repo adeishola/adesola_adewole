@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adesola_adewole/static/css/main.55d393a1.css",
+    "main.js": "/adesola_adewole/static/js/main.8a122167.js",
+    "static/js/787.3a963e31.chunk.js": "/adesola_adewole/static/js/787.3a963e31.chunk.js",
+    "static/media/portfolio4.jpg": "/adesola_adewole/static/media/portfolio4.bfca65428661bf2c5825.jpg",
+    "static/media/certRecrop.png": "/adesola_adewole/static/media/certRecrop.8c100dbf52e0de0072f2.png",
+    "static/media/portfolioPicture.jpg": "/adesola_adewole/static/media/portfolioPicture.50a555b9c5dd91444d2b.jpg",
+    "static/media/phone_icon.png": "/adesola_adewole/static/media/phone_icon.354ade8a286b9cd9772a.png",
+    "static/media/sun.svg": "/adesola_adewole/static/media/sun.1381e63ac74f94d33d08e2b9a855d494.svg",
+    "index.html": "/adesola_adewole/index.html",
+    "static/media/moon.svg": "/adesola_adewole/static/media/moon.8ff832627b229698b2add3307d03e410.svg",
+    "static/media/location-dot.svg": "/adesola_adewole/static/media/location-dot.15c0fcbc4389fcdde44cbbd42f7147f9.svg",
+    "main.55d393a1.css.map": "/adesola_adewole/static/css/main.55d393a1.css.map",
+    "main.8a122167.js.map": "/adesola_adewole/static/js/main.8a122167.js.map",
+    "787.3a963e31.chunk.js.map": "/adesola_adewole/static/js/787.3a963e31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55d393a1.css",
+    "static/js/main.8a122167.js"
+  ]
+}
